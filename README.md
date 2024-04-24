@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1dde1f&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Welinton+Petter;I'm+23+years+old;I+from+Brasil,+PR;I+study+software+engineer💻;Be+Welcome!+;Hola+Todo+Bem?+Eu+Sou+Welinton+;Tenho+24+Anos+de+Idade+;Sou+do+Parana+-+Brasil+;Estou+me+Graduando+em+Engenharia+de+Software:%29)](https://git.io/typing-svg)
 
   <h1 align="center"  >
-     <img height="230" width="230" src="[https://cdn-icons-png.flaticon.com/512/458/458910.png](https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F859a26cf-ad2b-4b5c-9252-6277e1c2e410%2F52a94274-849d-49e9-8ec3-e422b075d4b4%2F47D6FC89C78245889F2B77D94B8002B1_(2).png?table=block&id=fa720c26-5631-434c-9e33-3a03808e1665&spaceId=859a26cf-ad2b-4b5c-9252-6277e1c2e410&width=250&userId=fa4d6a06-4ff1-4824-9e18-9f237249c540&cache=v2)"/>
+     <img height="230" width="230" src="https://cdn-icons-png.flaticon.com/512/458/458910.png](https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F859a26cf-ad2b-4b5c-9252-6277e1c2e410%2F52a94274-849d-49e9-8ec3-e422b075d4b4%2F47D6FC89C78245889F2B77D94B8002B1_(2).png?table=block&id=fa720c26-5631-434c-9e33-3a03808e1665&spaceId=859a26cf-ad2b-4b5c-9252-6277e1c2e410&width=250&userId=fa4d6a06-4ff1-4824-9e18-9f237249c540&cache=v2)"/>
     <div></div>
     <a href="https://www.linkedin.com/in/welintonpetter/">Welinton Petter </a>
   </h1>
