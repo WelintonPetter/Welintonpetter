@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1dde1f&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Welinton+Petter;I'm+23+years+old;I+from+Brasil,+PR;I+study+software+engineer💻;Be+Welcome!+;Hola+Todo+Bem?+Eu+Sou+Welinton+;Tenho+24+Anos+de+Idade+;Sou+do+Parana+-+Brasil+;Estou+me+Graduando+em+Engenharia+de+Software:%29)](https://git.io/typing-svg)
 
   <h1 align="center"  >
-     <img height="230" width="230" src="https://i.pinimg.com/736x/f3/f3/c8/f3f3c811d39b252420eca9019436166e.jpg"/>
+     <img height="230" width="230" src="[https://i.pinimg.com/736x/f3/f3/c8/f3f3c811d39b252420eca9019436166e.jpg](https://i.pinimg.com/736x/00/b8/11/00b811be0f19ae130b632ede3da4d89a.jpg)"/>
     <div></div>
     <a href="https://www.linkedin.com/in/welintonpetter/">Welinton Petter </a>
   </h1>
