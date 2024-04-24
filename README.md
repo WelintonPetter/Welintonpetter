@@ -2,7 +2,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff7c70&height=120&section=header"/>
   
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1dde1f&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Welinton+Petter;I'm+23+years+old;I+from+Brasil,+PR;I+study+software+engineer💻;Be+Welcome!+;Hola+Todo+Bem?+Eu+Sou+Welinton+;Tenho+23+Anos+de+Idade+;Sou+do+Parana+-+Brasil+;Estou+me+Graduando+em+Engenharia+de+Software:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1dde1f&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Welinton+Petter;I'm+23+years+old;I+from+Brasil,+PR;I+study+software+engineer💻;Be+Welcome!+;Hola+Todo+Bem?+Eu+Sou+Welinton+;Tenho+24+Anos+de+Idade+;Sou+do+Parana+-+Brasil+;Estou+me+Graduando+em+Engenharia+de+Software:%29)](https://git.io/typing-svg)
 
   <h1 align="center"  >
      <img height="230" width="230" src="https://cdn-icons-png.flaticon.com/512/458/458910.png"/>
