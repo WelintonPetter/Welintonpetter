@@ -2,7 +2,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff7c70&height=120&section=header"/>
 
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=1dde1f&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Welinton+Petter;I'm+23+years+old;I+from+Brasil,+PR;I+study+software+engineering💻;Be+Welcome!+;Hola+Todo+Bem?+Eu+Sou+Welinton+;Tenho+24+Anos+de+Idade+;Sou+do+Parana+-+Brasil+;Estou+me+Graduando+em+Engenharia+de+Software:%29"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?color=1dde1f&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Welinton+Petter;I'm+25+years+old;I+from+Brasil,+PR;I+study+software+engineering💻;Be+Welcome!+;Hola+Todo+Bem?+Eu+Sou+Welinton+;Tenho+25+Anos+de+Idade+;Sou+do+Parana+-+Brasil+;Estou+me+Graduando+em+Engenharia+de+Software:%29"/>
   </p>
 
   <h1 align="center">
